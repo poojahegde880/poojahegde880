@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poojahegde880&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojahegde880&layout=compact&theme=radical" alt="Top Languages" height="165" />
@@ -44,7 +44,7 @@
 </p>
 
 ---
-
+-->
 ## 🌐 Let's Connect!
 - 💻 GitHub: [poojahegde880](https://github.com/poojahegde880)  
 - 💼 LinkedIn: [poojahegde14](http://www.linkedin.com/in/poojahegde14)  
