@@ -12,7 +12,7 @@
 ## 📚 Education
 - 🎓 *MCA* – Dayananda Sagar College of Arts, Science and Commerce, Bangalore (2023 – 2025, CGPA: 7.61/10)  
 - 🎓 *BCA* – JMJ BCA College, Sirsi (2020 – 2023, CGPA: 8.61/10)  
--
+
 ---
 
 ## 🛠 Skills
