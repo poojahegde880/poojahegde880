@@ -24,9 +24,11 @@
 ---
 
 ## 💡 Projects
-🔹 *[Online Rental Equipment Management System](#)* – A web portal providing temporary access to essential tech & equipment  
+🔹 *[Online Rental Equipment Management System]()* – A web portal providing temporary access to essential tech & equipment  
 🔹 *[Online Blood Bank Management System](#)* – Online system to manage blood bank operations effectively  
 🔹 *[Algorithm Visualizer (AlgoViz)](#)* – Interactive tool for understanding algorithms with animations  
+🔹 *[Personal Portfolio](#)* – A personal website showcasing  my skills, projects , and achievements with a clean and responsive design  
+
 
 ---
 
